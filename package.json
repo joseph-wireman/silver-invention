@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/joseph-wireman/silver-invention.git"
   },
-  "keywords": ["musedash","bot"],
+  "keywords": [
+    "musedash",
+    "bot"
+  ],
   "author": "Joseph Wireman",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/joseph-wireman/silver-invention/issues"
   },
-  "homepage": "https://github.com/joseph-wireman/silver-invention#readme"
+  "homepage": "https://github.com/joseph-wireman/silver-invention#readme",
+  "dependencies": {
+    "node-gyp": "^8.1.0",
+    "robotjs": "^0.6.0"
+  }
 }
