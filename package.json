@@ -1,0 +1,20 @@
+{
+  "name": "musedash-bot",
+  "version": "1.0.0",
+  "description": "musedash bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseph-wireman/silver-invention.git"
+  },
+  "keywords": ["musedash","bot"],
+  "author": "Joseph Wireman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseph-wireman/silver-invention/issues"
+  },
+  "homepage": "https://github.com/joseph-wireman/silver-invention#readme"
+}
